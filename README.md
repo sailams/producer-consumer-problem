@@ -30,7 +30,7 @@ python3.8 -V
 
 Step 3 - Run producer process and consumer process in separate terminal using the below command
 
-python3.8 prod.py (one terminal) and python3.8 cons.py (another terminal)
+python3.8 Producer.py (one terminal) and python3.8 Consumer.py (another terminal)
 
 
 
